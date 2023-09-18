@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Unity-696969?style=for-the-badge&logo=Unity&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CSharp-6A5ACD?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML5-D2691E?style=for-the-badge&logo=HTML5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=00FFFF"/> <img src="https://img.shields.io/badge/Firebase-696969?style=for-the-badge&logo=Firebase&logoColor=DAA520"/>
+
 <!--
 **widikov/widikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
