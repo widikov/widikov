@@ -4,4 +4,4 @@
 
 ### 🤖 Software I Use
 
-<img src="https://img.shields.io/badge/VSCode-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Photoshop-696969?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=000000"/> 
+<img src="https://img.shields.io/badge/PyCharm-1E90FF?style=for-the-badge&logo=pycharm&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Photoshop-696969?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=000000"/> 
