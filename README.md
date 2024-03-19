@@ -4,4 +4,4 @@
 
 ### 🤖 Software I Use
 
-<img src="https://img.shields.io/badge/VSCode-3776AB?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Rider-FA2343?style=for-the-badge&logo=Rider&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Photoshop-696969?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/VSCode-3776AB?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio-4B0082?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Photoshop-696969?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
