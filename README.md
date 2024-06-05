@@ -5,3 +5,5 @@
 ### 💻 Workspace
 
 <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24403%26project%3D%26in=0)](https://codetime.dev)
